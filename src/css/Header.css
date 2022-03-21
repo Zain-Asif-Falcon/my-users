@@ -1,0 +1,9 @@
+/* Header Component Style */
+h1 {
+  color: #2b6cb0;
+}
+.header-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
